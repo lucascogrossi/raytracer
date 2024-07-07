@@ -17,6 +17,8 @@ g++ main.cpp
 ### Run
 ```
 ./a.out > image.ppm
+
+eog image.ppm
 ```
 
 
